@@ -1,0 +1,14 @@
+.nav{
+    height:600px;
+    width: 200px;
+    background-color: #9fc5f7;
+    outline:black 2px solid;
+    display: inline-block;
+    margin-top:20px;
+    vertical-align: top;
+}
+.b{
+    width:140px;
+    text-align: center;
+    margin-left:30px;
+}

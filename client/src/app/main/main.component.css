@@ -1,0 +1,13 @@
+.main{
+    background-color: #9fc5f7;
+    outline:black 2px solid;
+    width:550px;
+    margin-left: 50px;
+    margin-top:20px;
+    height:600px;
+    display: inline-block;
+}
+.context{
+    margin-left: 20px;
+    margin-right: 20px;
+}
